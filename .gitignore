@@ -1,0 +1,8 @@
+# readthedocs/Sphinx
+
+Makefile
+make.bat
+_templates/
+_static/
+_build/
+
