@@ -3,20 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎阅读 getPM2.5's 帮助文档!
-====================================
+欢迎阅读 getPM2.5 帮助文档!
+===========================
+
+目录：
 
 .. toctree::
    :maxdepth: 3
-   :caption: Contents:
+
    docs/introduce
    docs/help
+   docs/issue
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
+
